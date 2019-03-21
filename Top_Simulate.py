@@ -14,4 +14,4 @@ def Top_Simulate():
     name4 = open('displacements.txt','r')
     
     # Find the properties of the structure input
-    print(name1)
+    
